@@ -224,3 +224,6 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+# Liquid date format
+date_format: "%Y-%m-%d %H:%M"
